@@ -1,5 +1,5 @@
 # Prakruthi Praveen
-# **description of program**
+# Breakout game uses recursion to break rows of numbers based on common factors until all numbers are broken, or deleted.
 
 import numpy as np
 import traceback
